@@ -4,7 +4,6 @@ import com.RodSolution.microsservicos.pedido.model.entities.ItemPedido;
 import com.RodSolution.microsservicos.pedido.model.entities.Pedido;
 import com.RodSolution.microsservicos.pedido.repository.PedidoRepository;
 import jakarta.transaction.Transactional;
-import org.hibernate.cache.spi.support.AbstractReadWriteAccess;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
