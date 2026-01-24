@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/Microsserviço e-commerce/Microservices/microsserviço-pedido/pom.xml" />
         <option value="$PROJECT_DIR$/e-commerce/Microservices/microsserviço-pedido/pom.xml" />
+        <option value="$PROJECT_DIR$/e-commerce/Microservices/ms-pedido/pom.xml" />
+        <option value="$PROJECT_DIR$/e-commerce/Microservices/ms-processamento/processamento/pom.xml" />
       </list>
     </option>
   </component>

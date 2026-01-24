@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Microsserviço e-commerce/Microservices/microsserviço-pedido/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/e-commerce/Microservices/microsserviço-pedido/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce/Microservices/ms-pedido/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce/Microservices/ms-processamento/processamento/src/main/java" charset="UTF-8" />
   </component>
 </project>
